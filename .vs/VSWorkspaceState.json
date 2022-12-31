@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\external"
   ],
-  "SelectedNode": "\\main.cpp",
+  "SelectedNode": "\\create_virtual_serialport.sh",
   "PreviewInSolutionExplorer": false
 }

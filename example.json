@@ -1,0 +1,10 @@
+{
+	"Device": {
+		"happy": true,
+		"pi": 3.1416
+	},
+	"Device2": {
+		"happy": true,
+		"pi": 3.1416
+	}
+}
